@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-promptorganizer"
+description = "This is a custom node for ComfyUI that automatically saves your AI-generated images specifically to [a/www.txt2any.com](http://www.txt2any.com/)."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/txt2any/ComfyUI-PromptOrganizer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PromptOrganizer"
+Icon = ""
